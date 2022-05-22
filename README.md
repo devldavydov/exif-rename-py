@@ -1,18 +1,18 @@
 # exif-rename-py
 Rename jpg files according to EXIF datetime
 
-# clone
+## clone
 ```
 git clone git@github.com:devldavydov/exif-rename-py.git
 ```
 
-# install
+## install
 ```
 cd exif-rename-py
 pip install .
 ```
 
-# run
+## run
 ```
 exif-rename-py jpg_images_path [-dry]
 exif-rename-py -h
