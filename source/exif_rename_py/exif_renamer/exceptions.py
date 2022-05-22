@@ -1,0 +1,2 @@
+class ExifTagDoesNotExistsException(Exception):
+    pass
