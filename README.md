@@ -3,7 +3,7 @@ Rename jpg files according to EXIF datetime
 
 # clone
 ```
-gh repo clone devldavydov/exif-rename-py
+git clone git@github.com:devldavydov/exif-rename-py.git
 ```
 
 # install
